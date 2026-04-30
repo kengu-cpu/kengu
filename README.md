@@ -1,2 +1,0 @@
-# kengu
-New Programmer
